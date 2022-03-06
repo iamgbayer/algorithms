@@ -1,4 +1,4 @@
-import { reverseString, reverseStringThroughLoop } from "./reverseString";
+import { reveseString, reverseStringThroughLoop } from "./reverse-string";
 
 it("Should reverse each word correctly", () => {
   expect(reverseString("my name is guilherme")).toEqual("ym eman si emrehliug");
