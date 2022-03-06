@@ -1,5 +1,3 @@
-// https://www.hackerrank.com/challenges/sock-merchant/problem
-
 export const countSockPairs = (ar) => {
   let drawer = {};
   let pairs = 0;
